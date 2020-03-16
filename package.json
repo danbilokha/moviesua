@@ -4,11 +4,30 @@
   "description": "movie tickets ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "setDev": "SET NODE_ENV=development ",
+    "start:dev": "npm run setDev & webpack",
+    "run:dev": "npm run setDev & nodemon dist/bundle.js",
+    "test": "jest"
   },
   "author": "Bilokha Danylo",
-  "license": "ISC",
+  "license": "private",
   "dependencies": {
-    "express": "^4.17.1"
+    "@types/express": "^4.17.3",
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.1",
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "nodemon": "^2.0.2",
+    "supertest": "^4.0.2",
+    "ts-jest": "^25.2.1",
+    "webpack-node-externals": "^1.7.2",
+    "webpack-shell-plugin": "^0.5.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
   }
 }
