@@ -2,7 +2,8 @@
 <h1> Moviesua tickets </h1>
 
 <h4>You have to have (I currently have)</h4>
-<ul> npm 6.9.0
+<ul> 
+<li> npm 6.9.0
 <li> node 10.16.0
 </ul>
 
