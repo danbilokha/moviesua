@@ -13,6 +13,7 @@ module.exports = {
             },
         ],
     },
+    mode: 'production',
     target: 'node',
     resolve: {
         extensions: ['.webpack.js', '.web.js', '.ts', '.tsx', '.js'],
