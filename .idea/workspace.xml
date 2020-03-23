@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e062dba-5b2a-4d80-be54-44c277f58cd9" name="Default Changelist" comment="telegram bot live!">
-      <change afterPath="$PROJECT_DIR$/server/src/bots/telegram/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/bots/telegram/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/bots/telegram/utils/message.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584381414185</updated>
       <workItem from="1584381415371" duration="183000" />
-      <workItem from="1584711959393" duration="8584000" />
+      <workItem from="1584711959393" duration="9167000" />
     </task>
     <task id="LOCAL-00001" summary="telegram bot live!">
       <created>1584994143540</created>
@@ -107,22 +101,22 @@
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state x="651" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584990788909" />
-    <state x="544" y="48" key="CommitChangelistDialog2" timestamp="1584995558358">
+    <state x="544" y="48" key="CommitChangelistDialog2" timestamp="1584996150647">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
-    <state x="544" y="48" key="CommitChangelistDialog2/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584995558358" />
-    <state x="176" y="90" key="DiffContextDialog" timestamp="1584995529256">
+    <state x="544" y="48" key="CommitChangelistDialog2/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584996150647" />
+    <state x="176" y="90" key="DiffContextDialog" timestamp="1584996150082">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
-    <state x="176" y="90" key="DiffContextDialog/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584995529256" />
+    <state x="176" y="90" key="DiffContextDialog/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584996150082" />
     <state x="422" y="182" key="SettingsEditor" timestamp="1584988749183">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state x="422" y="182" key="SettingsEditor/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584988749183" />
-    <state x="513" y="269" key="Vcs.Push.Dialog.v2" timestamp="1584995369175">
+    <state x="513" y="269" key="Vcs.Push.Dialog.v2" timestamp="1584995718116">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
-    <state x="513" y="269" key="Vcs.Push.Dialog.v2/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584995369175" />
+    <state x="513" y="269" key="Vcs.Push.Dialog.v2/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584995718116" />
     <state x="608" y="114" width="626" height="852" key="find.popup" timestamp="1584995211153">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
