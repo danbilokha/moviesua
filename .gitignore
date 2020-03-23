@@ -2,7 +2,9 @@
 node_modules/
 dist/
 
-# idea
-./idea/
+# ide & other stuff files
+.idea/
+.now/
 
-.now
+# environments files
+server/src/bots/telegram/.env

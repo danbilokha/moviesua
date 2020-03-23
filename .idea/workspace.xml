@@ -1,44 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e062dba-5b2a-4d80-be54-44c277f58cd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8e062dba-5b2a-4d80-be54-44c277f58cd9" name="Default Changelist" comment="telegram bot live!">
+      <change afterPath="$PROJECT_DIR$/server/src/bots/telegram/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/bots/telegram/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/bots/telegram/utils/message.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/viber-bot/get_public_url.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/viber-bot/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/viber-bot/logger.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>mochanpm install mocha-lcov-reporter --save-dev</find>
-      <find>env</find>
-      <find>jest</find>
-      <find>var</find>
-      <find>BotEvents</find>
-      <find>&quot;</find>
-      <find>Logger</find>
-      <find>format</find>
-      <find>message, response</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>const</replace>
-      <replace>message: string, response: object</replace>
-      <replace>let</replace>
-      <replace>'</replace>
-      <replace>message: any, response: any</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="ProjectId" id="1ZOZABYJBYnKAy4GxLWRC0aEy8l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -61,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dbilokha\Desktop\personal\chatbot\moviesua\server\src\bots\telegram" />
       <recent name="C:\Users\dbilokha\Desktop\personal\chatbot\moviesua" />
       <recent name="C:\Users\dbilokha\Desktop\personal\chatbot\moviesua\environments" />
       <recent name="C:\Users\dbilokha\Desktop\personal\chatbot\moviesua\server" />
@@ -77,21 +58,78 @@
       <option name="presentableId" value="Default" />
       <updated>1584381414185</updated>
       <workItem from="1584381415371" duration="183000" />
-      <workItem from="1584711959393" duration="3827000" />
+      <workItem from="1584711959393" duration="8584000" />
     </task>
+    <task id="LOCAL-00001" summary="telegram bot live!">
+      <created>1584994143540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584994143540</updated>
+    </task>
+    <task id="LOCAL-00002" summary="telegram bot live!">
+      <created>1584995362019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584995362019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="telegram bot live!" />
+    <option name="LAST_COMMIT_MESSAGE" value="telegram bot live!" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="694" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584994422519">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="694" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584994422519" />
     <state x="651" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584990788909">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state x="651" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584990788909" />
+    <state x="544" y="48" key="CommitChangelistDialog2" timestamp="1584995558358">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="544" y="48" key="CommitChangelistDialog2/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584995558358" />
+    <state x="176" y="90" key="DiffContextDialog" timestamp="1584995529256">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="176" y="90" key="DiffContextDialog/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584995529256" />
     <state x="422" y="182" key="SettingsEditor" timestamp="1584988749183">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state x="422" y="182" key="SettingsEditor/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584988749183" />
+    <state x="513" y="269" key="Vcs.Push.Dialog.v2" timestamp="1584995369175">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="513" y="269" key="Vcs.Push.Dialog.v2/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584995369175" />
+    <state x="608" y="114" width="626" height="852" key="find.popup" timestamp="1584995211153">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="608" y="114" width="626" height="852" key="find.popup/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584995211153" />
+    <state x="584" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1584994068789">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="584" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1842.1080/-653.-1080.1842.1080@0.0.1842.1080" timestamp="1584994068789" />
   </component>
 </project>
